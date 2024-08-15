@@ -1,7 +1,5 @@
 ## Hey there 👋
 
-I am Tokyo, an enthusiast currently hacking on some of my projects.
-
 I am a 17-year-old developer, passionate about exploring and working on various
 tech projects. I love diving deep into web development, constantly hacking on 
 projects using TypeScript, JavaScript, Next.js, React.js, and Rust. Python 
