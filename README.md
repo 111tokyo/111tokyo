@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I am a 17-year-old developer, passionate about exploring and working on various
+I am a 18-year-old developer, passionate about exploring and working on various
 tech projects. I love diving deep into web development, constantly hacking on 
 projects using TypeScript, JavaScript, Next.js, React.js, and Rust. Python 
 is also one of my go-to languages for scripting and problem-solving.
